@@ -1,0 +1,8 @@
+{
+  "name": "studypack",
+  "version": "1.0.0",
+  "description": "Free study resource sharing site",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
